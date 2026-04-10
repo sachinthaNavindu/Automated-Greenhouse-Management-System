@@ -22,3 +22,9 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 
+iot:
+  api:
+    base-url:
+  credentials:
+    username:
+    password:
