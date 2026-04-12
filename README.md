@@ -1,4 +1,4 @@
-# 🌱 Automated Greenhouse Management System (AGMS)
+#  Automated Greenhouse Management System (AGMS)
 
 ## Microservice-Based Application
 
